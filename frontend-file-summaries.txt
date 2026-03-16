@@ -1,0 +1,12 @@
+{
+  "frontend/src/hooks/useQueries.ts": "Custom React Query hooks for all backend operations including profiles, logs, statuses, and queue management with real-time polling.",
+  "frontend/src/App.tsx": "Main application component with grid layout containing profile list, settings panel, control buttons, and log panel with theme provider.",
+  "frontend/src/components/Header.tsx": "Application header with Bengali title, subtitle, activity icon, and theme toggle button.",
+  "frontend/src/components/ThemeToggle.tsx": "Theme switcher button component for toggling between light and dark modes.",
+  "frontend/src/components/ProfileList.tsx": "Profile list component with checkboxes for selection and real-time status badges.",
+  "frontend/src/components/SettingsPanel.tsx": "Settings form with target URL input, wait time input, and auto-click toggle switch.",
+  "frontend/src/components/ControlButtons.tsx": "Control panel with start queue and stop buttons with loading states and toast notifications.",
+  "frontend/src/components/LogPanel.tsx": "Real-time log display panel with auto-scrolling, timestamps, and profile IDs in Bengali format.",
+  "frontend/src/components/Footer.tsx": "Application footer with copyright and caffeine.ai attribution.",
+  "frontend/src/index.css": "Custom design system with purple-themed OKLCH color palette for light and dark modes."
+}
